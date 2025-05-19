@@ -52,7 +52,7 @@ O foco do projeto está na utilização de boas práticas de HTML e CSS, como o 
 
 Se quiser conversar ou acompanhar meus projetos, me encontre em:
 
-* LinkedIn: ([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gustavo-marques-5a3723294/))
+* LinkedIn: (https://www.linkedin.com/in/gustavo-marques-5a3723294/))
 * GitHub: (https://github.com/GustavoMarques22)
 * Instagram: (https://www.instagram.com/gutosantosx)
 
