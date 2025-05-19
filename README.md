@@ -32,6 +32,18 @@ O foco do projeto está na utilização de boas práticas de HTML e CSS, como o 
 └── README.md           → Documentação do projeto
 ```
 
+## 📸 HOME
+
+![Demonstração da pagina Home](/Portfólio/img/Home.png/)
+
+## 📸 SOBRE MIM
+
+![Demonstração da pagina Sobre mim](/Portfólio/img/Sobre mim.png/)
+
+## 📸 CURRICULO
+
+![Demonstração da pagina Curriculo](/Portfólio/img/Curriculo.png/)
+
 ## Como Usar
 
 1. Clone ou baixe este repositório:
