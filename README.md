@@ -38,7 +38,7 @@ O foco do projeto está na utilização de boas práticas de HTML e CSS, como o 
 
 ## 📸 SOBRE MIM
 
-![Demonstração da pagina Sobre mim](/Portfólio/img/Sobre mim.png/)
+![Demonstração da pagina Sobre mim](/Portfólio/img/SobreMim.png/)
 
 ## 📸 CURRICULO
 
