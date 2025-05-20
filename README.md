@@ -32,15 +32,15 @@ O foco do projeto está na utilização de boas práticas de HTML e CSS, como o 
 └── README.md           → Documentação do projeto
 ```
 
-## 📸 HOME
+## 📸 Home
 
 ![Demonstração da pagina Home](/Portfólio/img/Home.png/)
 
-## 📸 SOBRE MIM
+## 📸 Sobre mim
 
 ![Demonstração da pagina Sobre mim](/Portfólio/img/SobreMim.png/)
 
-## 📸 CURRICULO
+## 📸 Curriculo
 
 ![Demonstração da pagina Curriculo](/Portfólio/img/Curriculo.png/)
 
